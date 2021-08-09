@@ -1,0 +1,112 @@
+*{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 12px;
+}
+h3{
+	color:#ff0057;
+	}
+
+.letter { 
+ color: red; /* Красный цвет символов */ 
+ /*//font-size: 200%; /* Размер шрифта в процентах */ 
+ /*//font-family: serif; /* Шрифт с засечками */ 
+ /*//position: relative; /* Относительное позиционирование */ 
+ /*//top: 5px; /* Сдвиг сверху */ 
+}
+.blokk{ 
+    width: 1037px; 
+    background: #aaefff52;
+    padding: 5px;
+    padding-right: 20px; 
+    border: 1px solid black; 
+    float: left;
+    text-align: left;
+    font-size: 14px;
+     
+}
+.blokk2{ 
+    width: 1037px; 
+    background: #aaefff52;
+    padding: 5px;
+    padding-right: 20px; 
+    border: 1px solid black; 
+    float: left;
+    text-align: right;
+    font-size: 10px;
+     
+}
+.header1	 {
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.3) 65%, rgba(0, 0, 0, 0.4) 100%), url(https://lh6.googleusercontent.com/Kdt-y939DkG3p5C3aRP0awa3jbCdmvZouYpoZFjzoDPrijBXphXdXVR7Otry2_AqUNnnC0i6GA=w1200);
+    background-size: cover;
+    background-position: center;
+    color: rgba(255, 255, 255, 1);
+    height: 87px;
+    display: flex;
+    align-items: center
+}
+.header1	h2{margin: auto; }
+
+.fter{
+	background-color: #dde3f3;
+}
+* { text-align: center; }
+#footer {
+   position:unset;
+   bottom:0;
+   width:99%;
+   height:57px;   /* Высота блока "footer" */
+   background:#66ccff;
+}
+iframe {
+    background-color: #aaefff52;
+}
+
+.aside-left {
+    float: left;
+    width: 100px;
+  }
+
+.history_pok {
+     width: 1037px; 
+    background: #aaefff52;
+    padding: 5px;
+    padding-right: 20px; 
+    border: solid 1px black; 
+    float: left;
+    text-align: left; 
+    font-size:18px;
+}
+
+#clear {
+     clear: both;
+}
+
+table {width: 102%; /* Ширина таблицы */background: #aaefff52; /* Цвет фона таблицы */color: #020304; /* Цвет текста */border: 1px solid black;/* Расстояние между ячейками */border-collapse: collapse;}
+
+td, th 
+{
+background: #aaefff52; /* Цвет фона ячеек */
+padding: 10px; /* Поля вокруг текста */
+text-align:  left;
+border: 1px solid black;
+font-size: 11px;
+}
+
+ form
+{
+  font-size:18px
+}
+
+.navbtn{
+  float:left;
+}
+.blokk3{
+    width: 1037px;
+    background: #aaefff52;
+    padding: 5px;
+    padding-right: 20px;
+    border: 1px solid black;
+    float: left;
+    text-align: left;
+    font-size: 18px;
+}

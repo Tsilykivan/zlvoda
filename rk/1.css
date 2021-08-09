@@ -1,0 +1,19 @@
+table {
+    width: 50%; /* Ширина таблицы */
+    background: rgb(200,200,200); /* Цвет фона таблицы */
+    color: #020304; /* Цвет текста */
+    border: 1px solid maroon;/* Расстояние между ячейками */
+       }
+   td, th {
+    background: #0dfd992e; /* Цвет фона ячеек */
+    padding: 5px; /* Поля вокруг текста */
+    text-align:  left;
+    border: 2px solid maroon;
+    font-size: 25px;
+   }
+
+   p,button,input{
+   	font-size: 25px;
+   	
+   }
+   
